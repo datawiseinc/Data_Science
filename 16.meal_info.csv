@@ -1,0 +1,487 @@
+,userId,rating,mealskew,meal_name
+0,0,3.0,2.0,Chicken Curry
+1,0,1.0,3.0,Spicy Chicken Nuggest
+2,0,2.0,5.0,Hamburger
+3,0,4.0,9.0,Taco Surprise
+4,0,1.0,11.0,Meatloaf
+5,0,2.0,12.0,Ceaser Salad
+6,0,1.0,15.0,BBQ Ribs
+7,0,1.0,17.0,Sushi Plate
+8,0,1.0,19.0,Cheesesteak Sandwhich
+9,0,1.0,21.0,Lasagna
+10,0,1.0,23.0,Orange Chicken
+11,0,3.0,26.0,Spicy Beef Plate
+12,0,1.0,27.0,Salmon with Mashed Potatoes
+13,0,1.0,28.0,Penne Tomatoe Pasta
+14,0,1.0,29.0,Pork Sliders
+15,0,1.0,30.0,Vietnamese Sandwich
+16,0,1.0,31.0,Chicken Wrap
+49,1,2.0,2.0,Chicken Curry
+50,1,1.0,3.0,Spicy Chicken Nuggest
+51,1,2.0,4.0,Pretzels and Cheese Plate
+52,1,1.0,6.0,Spicy Pork Sliders
+53,1,3.0,9.0,Taco Surprise
+54,1,1.0,12.0,Ceaser Salad
+55,1,1.0,13.0,Mandarin Chicken PLate
+56,1,1.0,14.0,Kung Pao Chicken
+57,1,1.0,16.0,Fried Rice Plate
+58,1,1.0,19.0,Cheesesteak Sandwhich
+59,1,3.0,21.0,Lasagna
+60,1,1.0,27.0,Salmon with Mashed Potatoes
+61,1,3.0,28.0,Penne Tomatoe Pasta
+98,2,3.0,4.0,Pretzels and Cheese Plate
+99,2,1.0,6.0,Spicy Pork Sliders
+100,2,5.0,8.0,Chicken Chow Mein
+101,2,1.0,9.0,Taco Surprise
+102,2,1.0,10.0,Roasted Eggplant 
+103,2,3.0,12.0,Ceaser Salad
+104,2,1.0,13.0,Mandarin Chicken PLate
+105,2,2.0,15.0,BBQ Ribs
+106,2,2.0,18.0,Pepperoni Pizza
+107,2,4.0,19.0,Cheesesteak Sandwhich
+108,2,1.0,22.0,Pulled Pork Plate
+109,2,1.0,26.0,Spicy Beef Plate
+110,2,1.0,28.0,Penne Tomatoe Pasta
+144,3,1.0,0.0,Cheese Pizza
+145,3,1.0,1.0,Burrito
+146,3,1.0,2.0,Chicken Curry
+147,3,3.0,7.0,Nachos
+148,3,3.0,8.0,Chicken Chow Mein
+149,3,1.0,9.0,Taco Surprise
+150,3,1.0,14.0,Kung Pao Chicken
+151,3,1.0,15.0,BBQ Ribs
+152,3,1.0,16.0,Fried Rice Plate
+153,3,4.0,18.0,Pepperoni Pizza
+154,3,1.0,19.0,Cheesesteak Sandwhich
+155,3,3.0,24.0,Chili
+156,3,1.0,26.0,Spicy Beef Plate
+157,3,3.0,29.0,Pork Sliders
+192,4,1.0,1.0,Burrito
+193,4,1.0,6.0,Spicy Pork Sliders
+194,4,1.0,8.0,Chicken Chow Mein
+195,4,1.0,9.0,Taco Surprise
+196,4,1.0,10.0,Roasted Eggplant 
+197,4,1.0,11.0,Meatloaf
+198,4,1.0,12.0,Ceaser Salad
+199,4,1.0,13.0,Mandarin Chicken PLate
+200,4,2.0,14.0,Kung Pao Chicken
+201,4,1.0,15.0,BBQ Ribs
+202,4,1.0,17.0,Sushi Plate
+203,4,1.0,20.0,Southwest Salad
+204,4,1.0,22.0,Pulled Pork Plate
+205,4,1.0,23.0,Orange Chicken
+206,4,1.0,24.0,Chili
+207,4,4.0,29.0,Pork Sliders
+208,4,1.0,30.0,Vietnamese Sandwich
+209,4,1.0,31.0,Chicken Wrap
+247,5,1.0,0.0,Cheese Pizza
+248,5,1.0,1.0,Burrito
+249,5,1.0,4.0,Pretzels and Cheese Plate
+250,5,1.0,5.0,Hamburger
+251,5,1.0,8.0,Chicken Chow Mein
+252,5,3.0,9.0,Taco Surprise
+253,5,2.0,10.0,Roasted Eggplant 
+254,5,3.0,13.0,Mandarin Chicken PLate
+255,5,1.0,15.0,BBQ Ribs
+256,5,1.0,19.0,Cheesesteak Sandwhich
+257,5,3.0,20.0,Southwest Salad
+258,5,2.0,21.0,Lasagna
+259,5,3.0,23.0,Orange Chicken
+260,5,1.0,27.0,Salmon with Mashed Potatoes
+261,5,1.0,28.0,Penne Tomatoe Pasta
+262,5,1.0,29.0,Pork Sliders
+263,5,1.0,31.0,Chicken Wrap
+296,6,1.0,0.0,Cheese Pizza
+297,6,1.0,1.0,Burrito
+298,6,3.0,2.0,Chicken Curry
+299,6,1.0,5.0,Hamburger
+300,6,1.0,6.0,Spicy Pork Sliders
+301,6,1.0,9.0,Taco Surprise
+302,6,1.0,10.0,Roasted Eggplant 
+303,6,2.0,15.0,BBQ Ribs
+304,6,2.0,16.0,Fried Rice Plate
+305,6,1.0,17.0,Sushi Plate
+306,6,1.0,18.0,Pepperoni Pizza
+307,6,1.0,20.0,Southwest Salad
+308,6,1.0,21.0,Lasagna
+309,6,1.0,22.0,Pulled Pork Plate
+310,6,1.0,24.0,Chili
+311,6,5.0,25.0,Roast Beef Sandwich
+312,6,1.0,26.0,Spicy Beef Plate
+313,6,1.0,28.0,Penne Tomatoe Pasta
+314,6,1.0,30.0,Vietnamese Sandwich
+353,7,1.0,1.0,Burrito
+354,7,2.0,2.0,Chicken Curry
+355,7,1.0,3.0,Spicy Chicken Nuggest
+356,7,1.0,4.0,Pretzels and Cheese Plate
+357,7,1.0,7.0,Nachos
+358,7,1.0,10.0,Roasted Eggplant 
+359,7,2.0,11.0,Meatloaf
+360,7,2.0,14.0,Kung Pao Chicken
+361,7,1.0,15.0,BBQ Ribs
+362,7,1.0,16.0,Fried Rice Plate
+363,7,1.0,18.0,Pepperoni Pizza
+364,7,1.0,21.0,Lasagna
+365,7,1.0,22.0,Pulled Pork Plate
+366,7,1.0,23.0,Orange Chicken
+367,7,5.0,25.0,Roast Beef Sandwich
+368,7,1.0,26.0,Spicy Beef Plate
+369,7,4.0,29.0,Pork Sliders
+370,7,1.0,30.0,Vietnamese Sandwich
+371,7,3.0,31.0,Chicken Wrap
+407,8,1.0,0.0,Cheese Pizza
+408,8,4.0,2.0,Chicken Curry
+409,8,2.0,3.0,Spicy Chicken Nuggest
+410,8,2.0,4.0,Pretzels and Cheese Plate
+411,8,1.0,5.0,Hamburger
+412,8,1.0,7.0,Nachos
+413,8,1.0,9.0,Taco Surprise
+414,8,1.0,11.0,Meatloaf
+415,8,1.0,15.0,BBQ Ribs
+416,8,1.0,18.0,Pepperoni Pizza
+417,8,1.0,19.0,Cheesesteak Sandwhich
+418,8,1.0,21.0,Lasagna
+419,8,5.0,29.0,Pork Sliders
+420,8,3.0,31.0,Chicken Wrap
+456,9,3.0,2.0,Chicken Curry
+457,9,1.0,3.0,Spicy Chicken Nuggest
+458,9,1.0,4.0,Pretzels and Cheese Plate
+459,9,1.0,5.0,Hamburger
+460,9,1.0,6.0,Spicy Pork Sliders
+461,9,5.0,7.0,Nachos
+462,9,1.0,9.0,Taco Surprise
+463,9,1.0,12.0,Ceaser Salad
+464,9,3.0,14.0,Kung Pao Chicken
+465,9,1.0,15.0,BBQ Ribs
+466,9,1.0,19.0,Cheesesteak Sandwhich
+467,9,1.0,21.0,Lasagna
+468,9,1.0,22.0,Pulled Pork Plate
+469,9,1.0,24.0,Chili
+470,9,1.0,25.0,Roast Beef Sandwich
+471,9,1.0,26.0,Spicy Beef Plate
+472,9,3.0,30.0,Vietnamese Sandwich
+509,10,3.0,0.0,Cheese Pizza
+510,10,4.0,2.0,Chicken Curry
+511,10,3.0,4.0,Pretzels and Cheese Plate
+512,10,1.0,7.0,Nachos
+513,10,1.0,8.0,Chicken Chow Mein
+514,10,1.0,10.0,Roasted Eggplant 
+515,10,2.0,13.0,Mandarin Chicken PLate
+516,10,1.0,14.0,Kung Pao Chicken
+517,10,2.0,16.0,Fried Rice Plate
+518,10,1.0,17.0,Sushi Plate
+519,10,1.0,18.0,Pepperoni Pizza
+520,10,1.0,21.0,Lasagna
+521,10,1.0,22.0,Pulled Pork Plate
+522,10,1.0,24.0,Chili
+523,10,3.0,25.0,Roast Beef Sandwich
+524,10,1.0,28.0,Penne Tomatoe Pasta
+553,11,1.0,0.0,Cheese Pizza
+554,11,2.0,6.0,Spicy Pork Sliders
+555,11,1.0,9.0,Taco Surprise
+556,11,1.0,10.0,Roasted Eggplant 
+557,11,1.0,11.0,Meatloaf
+558,11,1.0,12.0,Ceaser Salad
+559,11,4.0,13.0,Mandarin Chicken PLate
+560,11,1.0,16.0,Fried Rice Plate
+561,11,5.0,18.0,Pepperoni Pizza
+562,11,4.0,19.0,Cheesesteak Sandwhich
+563,11,1.0,20.0,Southwest Salad
+564,11,1.0,21.0,Lasagna
+565,11,1.0,22.0,Pulled Pork Plate
+566,11,5.0,23.0,Orange Chicken
+567,11,1.0,25.0,Roast Beef Sandwich
+568,11,5.0,27.0,Salmon with Mashed Potatoes
+569,11,5.0,30.0,Vietnamese Sandwich
+609,12,1.0,2.0,Chicken Curry
+610,12,1.0,4.0,Pretzels and Cheese Plate
+611,12,1.0,6.0,Spicy Pork Sliders
+612,12,3.0,7.0,Nachos
+613,12,1.0,8.0,Chicken Chow Mein
+614,12,1.0,14.0,Kung Pao Chicken
+615,12,2.0,15.0,BBQ Ribs
+616,12,4.0,16.0,Fried Rice Plate
+617,12,5.0,17.0,Sushi Plate
+618,12,2.0,18.0,Pepperoni Pizza
+619,12,1.0,21.0,Lasagna
+620,12,2.0,22.0,Pulled Pork Plate
+621,12,3.0,23.0,Orange Chicken
+622,12,1.0,24.0,Chili
+623,12,1.0,25.0,Roast Beef Sandwich
+624,12,5.0,27.0,Salmon with Mashed Potatoes
+625,12,2.0,30.0,Vietnamese Sandwich
+626,12,4.0,31.0,Chicken Wrap
+664,13,1.0,0.0,Cheese Pizza
+665,13,1.0,3.0,Spicy Chicken Nuggest
+666,13,2.0,4.0,Pretzels and Cheese Plate
+667,13,1.0,5.0,Hamburger
+668,13,1.0,6.0,Spicy Pork Sliders
+669,13,1.0,12.0,Ceaser Salad
+670,13,2.0,14.0,Kung Pao Chicken
+671,13,1.0,15.0,BBQ Ribs
+672,13,1.0,17.0,Sushi Plate
+673,13,3.0,18.0,Pepperoni Pizza
+674,13,1.0,20.0,Southwest Salad
+675,13,1.0,21.0,Lasagna
+676,13,1.0,22.0,Pulled Pork Plate
+677,13,1.0,26.0,Spicy Beef Plate
+678,13,1.0,27.0,Salmon with Mashed Potatoes
+679,13,3.0,29.0,Pork Sliders
+680,13,1.0,31.0,Chicken Wrap
+712,14,1.0,1.0,Burrito
+713,14,3.0,3.0,Spicy Chicken Nuggest
+714,14,1.0,4.0,Pretzels and Cheese Plate
+715,14,1.0,5.0,Hamburger
+716,14,1.0,6.0,Spicy Pork Sliders
+717,14,1.0,7.0,Nachos
+718,14,1.0,9.0,Taco Surprise
+719,14,1.0,10.0,Roasted Eggplant 
+720,14,1.0,11.0,Meatloaf
+721,14,1.0,12.0,Ceaser Salad
+722,14,1.0,13.0,Mandarin Chicken PLate
+723,14,3.0,14.0,Kung Pao Chicken
+724,14,1.0,15.0,BBQ Ribs
+725,14,1.0,16.0,Fried Rice Plate
+726,14,1.0,17.0,Sushi Plate
+727,14,1.0,20.0,Southwest Salad
+728,14,1.0,21.0,Lasagna
+729,14,1.0,24.0,Chili
+730,14,2.0,25.0,Roast Beef Sandwich
+731,14,1.0,27.0,Salmon with Mashed Potatoes
+732,14,1.0,28.0,Penne Tomatoe Pasta
+733,14,5.0,29.0,Pork Sliders
+734,14,3.0,31.0,Chicken Wrap
+769,15,1.0,0.0,Cheese Pizza
+770,15,4.0,1.0,Burrito
+771,15,1.0,2.0,Chicken Curry
+772,15,2.0,5.0,Hamburger
+773,15,1.0,6.0,Spicy Pork Sliders
+774,15,1.0,7.0,Nachos
+775,15,1.0,13.0,Mandarin Chicken PLate
+776,15,1.0,14.0,Kung Pao Chicken
+777,15,1.0,15.0,BBQ Ribs
+778,15,2.0,17.0,Sushi Plate
+779,15,2.0,19.0,Cheesesteak Sandwhich
+780,15,2.0,22.0,Pulled Pork Plate
+781,15,2.0,23.0,Orange Chicken
+782,15,1.0,25.0,Roast Beef Sandwich
+783,15,3.0,26.0,Spicy Beef Plate
+784,15,1.0,27.0,Salmon with Mashed Potatoes
+785,15,2.0,28.0,Penne Tomatoe Pasta
+786,15,1.0,29.0,Pork Sliders
+817,16,1.0,2.0,Chicken Curry
+818,16,3.0,5.0,Hamburger
+819,16,2.0,6.0,Spicy Pork Sliders
+820,16,1.0,7.0,Nachos
+821,16,1.0,9.0,Taco Surprise
+822,16,1.0,12.0,Ceaser Salad
+823,16,1.0,14.0,Kung Pao Chicken
+824,16,1.0,15.0,BBQ Ribs
+825,16,1.0,19.0,Cheesesteak Sandwhich
+826,16,2.0,21.0,Lasagna
+827,16,4.0,29.0,Pork Sliders
+828,16,2.0,30.0,Vietnamese Sandwich
+862,17,1.0,2.0,Chicken Curry
+863,17,1.0,3.0,Spicy Chicken Nuggest
+864,17,1.0,6.0,Spicy Pork Sliders
+865,17,4.0,10.0,Roasted Eggplant 
+866,17,1.0,11.0,Meatloaf
+867,17,2.0,13.0,Mandarin Chicken PLate
+868,17,5.0,17.0,Sushi Plate
+869,17,1.0,19.0,Cheesesteak Sandwhich
+870,17,5.0,20.0,Southwest Salad
+871,17,4.0,22.0,Pulled Pork Plate
+872,17,1.0,28.0,Penne Tomatoe Pasta
+873,17,1.0,29.0,Pork Sliders
+908,18,1.0,1.0,Burrito
+909,18,3.0,4.0,Pretzels and Cheese Plate
+910,18,2.0,5.0,Hamburger
+911,18,1.0,6.0,Spicy Pork Sliders
+912,18,1.0,7.0,Nachos
+913,18,1.0,10.0,Roasted Eggplant 
+914,18,4.0,11.0,Meatloaf
+915,18,2.0,12.0,Ceaser Salad
+916,18,1.0,13.0,Mandarin Chicken PLate
+917,18,1.0,15.0,BBQ Ribs
+918,18,1.0,18.0,Pepperoni Pizza
+919,18,1.0,20.0,Southwest Salad
+920,18,2.0,21.0,Lasagna
+921,18,1.0,22.0,Pulled Pork Plate
+922,18,2.0,23.0,Orange Chicken
+923,18,1.0,25.0,Roast Beef Sandwich
+924,18,1.0,26.0,Spicy Beef Plate
+925,18,1.0,27.0,Salmon with Mashed Potatoes
+926,18,5.0,28.0,Penne Tomatoe Pasta
+927,18,1.0,29.0,Pork Sliders
+928,18,1.0,31.0,Chicken Wrap
+960,19,1.0,0.0,Cheese Pizza
+961,19,1.0,1.0,Burrito
+962,19,1.0,2.0,Chicken Curry
+963,19,1.0,4.0,Pretzels and Cheese Plate
+964,19,2.0,6.0,Spicy Pork Sliders
+965,19,1.0,11.0,Meatloaf
+966,19,1.0,12.0,Ceaser Salad
+967,19,1.0,14.0,Kung Pao Chicken
+968,19,1.0,23.0,Orange Chicken
+969,19,1.0,26.0,Spicy Beef Plate
+970,19,1.0,31.0,Chicken Wrap
+1009,20,1.0,0.0,Cheese Pizza
+1010,20,1.0,1.0,Burrito
+1011,20,2.0,2.0,Chicken Curry
+1012,20,2.0,4.0,Pretzels and Cheese Plate
+1013,20,1.0,6.0,Spicy Pork Sliders
+1014,20,1.0,8.0,Chicken Chow Mein
+1015,20,1.0,12.0,Ceaser Salad
+1016,20,2.0,21.0,Lasagna
+1017,20,5.0,22.0,Pulled Pork Plate
+1018,20,2.0,24.0,Chili
+1019,20,1.0,25.0,Roast Beef Sandwich
+1020,20,1.0,26.0,Spicy Beef Plate
+1021,20,2.0,29.0,Pork Sliders
+1022,20,2.0,30.0,Vietnamese Sandwich
+1056,21,1.0,0.0,Cheese Pizza
+1057,21,4.0,2.0,Chicken Curry
+1058,21,1.0,3.0,Spicy Chicken Nuggest
+1059,21,2.0,7.0,Nachos
+1060,21,1.0,11.0,Meatloaf
+1061,21,1.0,12.0,Ceaser Salad
+1062,21,1.0,13.0,Mandarin Chicken PLate
+1063,21,3.0,14.0,Kung Pao Chicken
+1064,21,1.0,17.0,Sushi Plate
+1065,21,1.0,19.0,Cheesesteak Sandwhich
+1066,21,1.0,20.0,Southwest Salad
+1067,21,1.0,21.0,Lasagna
+1068,21,1.0,22.0,Pulled Pork Plate
+1069,21,1.0,23.0,Orange Chicken
+1070,21,1.0,24.0,Chili
+1071,21,1.0,27.0,Salmon with Mashed Potatoes
+1072,21,5.0,29.0,Pork Sliders
+1073,21,2.0,30.0,Vietnamese Sandwich
+1104,22,1.0,0.0,Cheese Pizza
+1105,22,2.0,3.0,Spicy Chicken Nuggest
+1106,22,2.0,5.0,Hamburger
+1107,22,2.0,6.0,Spicy Pork Sliders
+1108,22,1.0,9.0,Taco Surprise
+1109,22,1.0,10.0,Roasted Eggplant 
+1110,22,1.0,11.0,Meatloaf
+1111,22,1.0,13.0,Mandarin Chicken PLate
+1112,22,1.0,14.0,Kung Pao Chicken
+1113,22,1.0,16.0,Fried Rice Plate
+1114,22,3.0,18.0,Pepperoni Pizza
+1115,22,1.0,19.0,Cheesesteak Sandwhich
+1116,22,5.0,22.0,Pulled Pork Plate
+1117,22,1.0,25.0,Roast Beef Sandwich
+1118,22,1.0,26.0,Spicy Beef Plate
+1119,22,3.0,29.0,Pork Sliders
+1120,22,5.0,30.0,Vietnamese Sandwich
+1160,23,1.0,0.0,Cheese Pizza
+1161,23,1.0,2.0,Chicken Curry
+1162,23,1.0,4.0,Pretzels and Cheese Plate
+1163,23,2.0,6.0,Spicy Pork Sliders
+1164,23,4.0,10.0,Roasted Eggplant 
+1165,23,1.0,12.0,Ceaser Salad
+1166,23,4.0,13.0,Mandarin Chicken PLate
+1167,23,1.0,14.0,Kung Pao Chicken
+1168,23,1.0,15.0,BBQ Ribs
+1169,23,4.0,18.0,Pepperoni Pizza
+1170,23,2.0,22.0,Pulled Pork Plate
+1171,23,4.0,23.0,Orange Chicken
+1172,23,1.0,24.0,Chili
+1173,23,1.0,25.0,Roast Beef Sandwich
+1174,23,1.0,26.0,Spicy Beef Plate
+1175,23,5.0,27.0,Salmon with Mashed Potatoes
+1176,23,1.0,28.0,Penne Tomatoe Pasta
+1177,23,1.0,29.0,Pork Sliders
+1178,23,4.0,30.0,Vietnamese Sandwich
+1212,24,1.0,4.0,Pretzels and Cheese Plate
+1213,24,3.0,6.0,Spicy Pork Sliders
+1214,24,1.0,7.0,Nachos
+1215,24,2.0,10.0,Roasted Eggplant 
+1216,24,1.0,12.0,Ceaser Salad
+1217,24,1.0,15.0,BBQ Ribs
+1218,24,1.0,19.0,Cheesesteak Sandwhich
+1219,24,1.0,24.0,Chili
+1220,24,3.0,27.0,Salmon with Mashed Potatoes
+1221,24,5.0,30.0,Vietnamese Sandwich
+1222,24,1.0,31.0,Chicken Wrap
+1264,25,3.0,1.0,Burrito
+1265,25,1.0,2.0,Chicken Curry
+1266,25,1.0,7.0,Nachos
+1267,25,1.0,9.0,Taco Surprise
+1268,25,3.0,12.0,Ceaser Salad
+1269,25,3.0,16.0,Fried Rice Plate
+1270,25,1.0,17.0,Sushi Plate
+1271,25,1.0,18.0,Pepperoni Pizza
+1272,25,1.0,20.0,Southwest Salad
+1273,25,1.0,22.0,Pulled Pork Plate
+1274,25,1.0,23.0,Orange Chicken
+1275,25,2.0,26.0,Spicy Beef Plate
+1276,25,1.0,29.0,Pork Sliders
+1277,25,1.0,30.0,Vietnamese Sandwich
+1278,25,2.0,31.0,Chicken Wrap
+1310,26,1.0,0.0,Cheese Pizza
+1311,26,1.0,1.0,Burrito
+1312,26,1.0,2.0,Chicken Curry
+1313,26,1.0,3.0,Spicy Chicken Nuggest
+1314,26,4.0,4.0,Pretzels and Cheese Plate
+1315,26,2.0,5.0,Hamburger
+1316,26,3.0,6.0,Spicy Pork Sliders
+1317,26,5.0,7.0,Nachos
+1318,26,3.0,13.0,Mandarin Chicken PLate
+1319,26,1.0,14.0,Kung Pao Chicken
+1320,26,1.0,16.0,Fried Rice Plate
+1321,26,3.0,18.0,Pepperoni Pizza
+1322,26,1.0,20.0,Southwest Salad
+1323,26,3.0,21.0,Lasagna
+1324,26,5.0,22.0,Pulled Pork Plate
+1325,26,5.0,23.0,Orange Chicken
+1326,26,5.0,24.0,Chili
+1327,26,1.0,27.0,Salmon with Mashed Potatoes
+1328,26,1.0,31.0,Chicken Wrap
+1359,27,1.0,0.0,Cheese Pizza
+1360,27,1.0,9.0,Taco Surprise
+1361,27,1.0,10.0,Roasted Eggplant 
+1362,27,4.0,18.0,Pepperoni Pizza
+1363,27,3.0,19.0,Cheesesteak Sandwhich
+1364,27,1.0,20.0,Southwest Salad
+1365,27,2.0,22.0,Pulled Pork Plate
+1366,27,2.0,24.0,Chili
+1367,27,1.0,25.0,Roast Beef Sandwich
+1368,27,3.0,27.0,Salmon with Mashed Potatoes
+1369,27,1.0,28.0,Penne Tomatoe Pasta
+1370,27,1.0,29.0,Pork Sliders
+1371,27,1.0,31.0,Chicken Wrap
+1405,28,3.0,0.0,Cheese Pizza
+1406,28,1.0,1.0,Burrito
+1407,28,4.0,2.0,Chicken Curry
+1408,28,1.0,3.0,Spicy Chicken Nuggest
+1409,28,1.0,6.0,Spicy Pork Sliders
+1410,28,1.0,7.0,Nachos
+1411,28,5.0,12.0,Ceaser Salad
+1412,28,2.0,13.0,Mandarin Chicken PLate
+1413,28,1.0,14.0,Kung Pao Chicken
+1414,28,1.0,15.0,BBQ Ribs
+1415,28,1.0,17.0,Sushi Plate
+1416,28,3.0,19.0,Cheesesteak Sandwhich
+1417,28,1.0,20.0,Southwest Salad
+1418,28,3.0,23.0,Orange Chicken
+1419,28,3.0,24.0,Chili
+1420,28,1.0,27.0,Salmon with Mashed Potatoes
+1421,28,1.0,29.0,Pork Sliders
+1455,29,1.0,3.0,Spicy Chicken Nuggest
+1456,29,1.0,4.0,Pretzels and Cheese Plate
+1457,29,1.0,5.0,Hamburger
+1458,29,2.0,7.0,Nachos
+1459,29,1.0,9.0,Taco Surprise
+1460,29,3.0,10.0,Roasted Eggplant 
+1461,29,1.0,11.0,Meatloaf
+1462,29,3.0,13.0,Mandarin Chicken PLate
+1463,29,1.0,14.0,Kung Pao Chicken
+1464,29,1.0,15.0,BBQ Ribs
+1465,29,3.0,17.0,Sushi Plate
+1466,29,3.0,19.0,Cheesesteak Sandwhich
+1467,29,3.0,22.0,Pulled Pork Plate
+1468,29,4.0,23.0,Orange Chicken
+1469,29,1.0,25.0,Roast Beef Sandwich
+1470,29,1.0,29.0,Pork Sliders
+1471,29,1.0,31.0,Chicken Wrap
